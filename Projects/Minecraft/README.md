@@ -1,4 +1,4 @@
-# 🪓 Minecraft Clone in Python
+# Minecraft Clone in Python
 
 Welcome to my Minecraft clone project built with the **Ursina** game engine! 🎮
 
