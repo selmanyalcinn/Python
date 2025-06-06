@@ -17,5 +17,3 @@ I implemented this project using Python and the Ursina library to understand 3D 
 Here’s a quick look at the game in action:
 
 ![Minecraft Clone Screenshot](minecraft.jpeg)
-
-   ```
